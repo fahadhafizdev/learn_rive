@@ -1,6 +1,6 @@
 # flutter_learn_rive_1
 
-A new Flutter project.
+this project for learch slicing design with rive 
 
 ## Getting Started
 
